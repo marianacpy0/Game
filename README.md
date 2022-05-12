@@ -1,6 +1,7 @@
 # Game
 Repositorio para validar instalación de software
-  -Validación Flake8:
+
+  - Validación Flake8:
   ![Screenshot from 2022-05-12 10-53-19](https://user-images.githubusercontent.com/104474575/168117572-160b7138-b9d8-4c53-9011-7cc70eb70614.png)
 
   - Validación juego:
